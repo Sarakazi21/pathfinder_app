@@ -1,0 +1,19 @@
+Job_role,education_level,subject,interest,score,Relevant_Subjects,Relevant_Interests
+Teaching,Class 11–12 Science,maths,teaching,95,maths,biology,physics,teaching,education
+Chef,Class 11–12 Arts,history,design,89,history,arts,culinary arts,design,culinary
+Entrepreneur,Bachelors,commerce,business,92,commerce,marketing,finance,business,entrepreneurship
+Developer,Bachelors,computer science,coding,98,computer science,software development,ai,coding,technology
+Designer,Bachelors,arts,design,90,arts,graphic design,visual arts,design,creativity
+Lawyer,Masters,law,legal,85,law,political science,criminal law,law,legal
+Scientist,Masters,biotech,research,93,biotech,chemistry,genetics,research,science
+Journalist,Class 11–12 Arts,political science,media,88,political science,journalism,communication,media,writing
+Architect,Masters,architecture,design,91,architecture,engineering,urban planning,design,creativity
+Doctor,Masters,biology,medicine,94,biology,chemistry,healthcare,medicine,healthcare
+Photographer,Bachelors,arts,design,87,arts,photography,visual arts,design,creativity
+Engineer,Bachelors,physics,engineering,96,physics,engineering,mechanical engineering,engineering,technology
+Marketing Specialist,Bachelors,commerce,marketing,93,commerce,marketing,business studies,marketing,business
+Actor,Class 11–12 Arts,history,media,85,arts,history,theater,media,performing arts
+Chef,Class 11–12 Arts,home science,culinary,91,home science,culinary arts,food science,culinary,food
+Data Scientist,Bachelors,computer science,coding,99,computer science,data science,ai,coding,technology
+Psychologist,Masters,psychology,healthcare,90,psychology,healthcare,mental health,healthcare,psychology
+Economist,Masters,economics,finance,92,economics,finance,commerce,finance,finance

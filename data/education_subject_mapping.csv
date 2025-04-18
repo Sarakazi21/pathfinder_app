@@ -1,0 +1,35 @@
+Education Level,Stream,Subject
+Class 8-10,-,Science
+Class 8-10,-,Maths
+Class 8-10,-,English
+Class 8-10,-,Social Science
+Class 8-10,-,Computer Basics
+Class 11-12,Science,Physics
+Class 11-12,Science,Chemistry
+Class 11-12,Science,Biology
+Class 11-12,Science,Maths
+Class 11-12,Science,Computer Science
+Class 11-12,Commerce,Accounts
+Class 11-12,Commerce,Economics
+Class 11-12,Commerce,Business Studies
+Class 11-12,Commerce,Maths
+Class 11-12,Arts,History
+Class 11-12,Arts,Geography
+Class 11-12,Arts,Psychology
+Class 11-12,Arts,Literature
+Bachelors,BSc,Physics
+Bachelors,BSc,Chemistry
+Bachelors,BSc,Data Science
+Bachelors,BSc,Biology
+Bachelors,BCom,Finance
+Bachelors,BCom,Marketing
+Bachelors,BCom,Accounting
+Bachelors,BA,Sociology
+Bachelors,BA,Political Science
+Bachelors,BA,Journalism
+Masters,MSc,Artificial Intelligence
+Masters,MSc,Machine Learning
+Masters,MSc,Data Analytics
+Masters,MBA,Finance
+Masters,MBA,HR
+Masters,MBA,Marketing
